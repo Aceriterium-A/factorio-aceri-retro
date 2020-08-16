@@ -2,7 +2,7 @@
   <img src="logo.PNG"></img>
 </p>
 
-# Aceri Retro v1.0
+# Aceri Retro v1.1
 Font blueprint for in-game factorio
 
 # Installation
