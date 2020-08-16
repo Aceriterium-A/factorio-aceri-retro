@@ -3,7 +3,7 @@
 </p>
 
 # Aceri Retro v1.0
-Font for in-game factorio
+Font blueprint for in-game factorio
 
 # Installation
 1. Copy either Aceri Retro or Aceri Retro Mono (discouraged) blueprint source
